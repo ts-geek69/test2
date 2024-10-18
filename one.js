@@ -4,5 +4,7 @@ console.log("Hello world! jeetu");
 console.log("substract complete!");
 console.log("multi complete!");
 console.log("divide complete!");
+console.log("expect complete!");
+
 
 

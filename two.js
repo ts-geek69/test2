@@ -13,3 +13,10 @@ const divide = (a,b)=>{
     }
     return a/b;
 }
+const expect = (a,b)=>{
+    if(a===b){
+        console.log("Test passed");
+    }else{
+        console.error("Test failed");
+    }
+}
